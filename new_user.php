@@ -194,8 +194,6 @@ $('#manage_user').submit(function(e){
 			return false;
 		}
 	}
-
-	
 	start_load()
 	$('#msg').html('')
 
