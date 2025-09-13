@@ -195,6 +195,7 @@ $('#manage_user').submit(function(e){
 		}
 	}
 
+	
 	start_load()
 	$('#msg').html('')
 
